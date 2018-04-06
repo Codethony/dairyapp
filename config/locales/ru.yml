@@ -6,9 +6,9 @@ ru:
     index:
       title: 'Домашка'
     new:
-      title: 'Предмет'
+      title: 'Новая домашка'
     edit:
-      title: 'Задание'
+      title: 'Изменить домашку'
     form:
       submit:
         '%{action} домашку'
