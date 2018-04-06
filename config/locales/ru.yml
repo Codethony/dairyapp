@@ -1,0 +1,14 @@
+ru:
+  common:
+    errors: 'При заполнении формы возникли ошибки'
+    back: 'Назад'
+  posts:
+    index:
+      title: 'Домашка'
+    new:
+      title: 'Предмет'
+    edit:
+      title: 'Задание'
+    form:
+      submit:
+        '%{action} домашку'

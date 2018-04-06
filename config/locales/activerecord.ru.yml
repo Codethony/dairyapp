@@ -1,0 +1,12 @@
+ru:
+  activerecord:
+    models:
+      post: 'Домашка'
+    attributes:
+      post:
+        title: 'День'
+        sumary: 'Предмет'
+        body: 'Задание'
+    errors:
+      messages:
+        blank: 'не может быть пустым'
