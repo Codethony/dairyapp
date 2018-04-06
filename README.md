@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Все те що я поки що зробив:
 
-Things you may want to cover:
+* Базовий функіонал онлайн щоденника
 
-* Ruby version
+* Bootstrap кнопки, navbar і тд
 
-* System dependencies
+* Вивод ошибок
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Локалізація
 
 * ...
